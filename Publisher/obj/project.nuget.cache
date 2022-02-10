@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "87meN6S2clt7dVvYcGSQ6AchAUUTd4Fzoazi1lzI+YEILjY5dwl7ZS5VRJu6iOYO+j042se7EfnEZ9WL8yVfVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ajavier\\source\\repos\\RabbitMQ\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajavier\\.nuget\\packages\\rabbitmq.client\\6.2.3\\rabbitmq.client.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ajavier\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ajavier\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

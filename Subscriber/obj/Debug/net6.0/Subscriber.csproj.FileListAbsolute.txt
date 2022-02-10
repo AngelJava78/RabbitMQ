@@ -1,0 +1,17 @@
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\bin\Debug\net6.0\Subscriber.exe
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\bin\Debug\net6.0\Subscriber.deps.json
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\bin\Debug\net6.0\Subscriber.runtimeconfig.json
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\bin\Debug\net6.0\Subscriber.dll
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\bin\Debug\net6.0\ref\Subscriber.dll
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\bin\Debug\net6.0\Subscriber.pdb
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.csproj.AssemblyReference.cache
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfoInputs.cache
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfo.cs
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.csproj.CopyComplete
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.dll
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\ref\Subscriber.dll
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.pdb
+C:\Users\Ajavier\source\repos\RabbitMQ\Subscriber\obj\Debug\net6.0\Subscriber.genruntimeconfig.cache
